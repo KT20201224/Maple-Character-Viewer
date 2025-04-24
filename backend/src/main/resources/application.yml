@@ -1,0 +1,12 @@
+
+server:
+  port: 8080
+
+maple:
+  api:
+    key: "test_923a88ce163152bd375e723d5bfc73e38377c4f0422ba5967cb5e36449725e77efe8d04e6d233bd35cf2fabdeb93fb0d"
+    base-url: "https://open.api.nexon.com"
+
+spring:
+  application:
+    name: maple-character-viewer
